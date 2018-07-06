@@ -1,1 +1,1 @@
-# face_detect_for_advertising
+# face detect for advertising
